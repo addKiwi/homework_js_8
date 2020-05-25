@@ -1,0 +1,48 @@
+.price{
+    outline: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.redtext{
+    color: red;
+}
+
+.grntext{
+    color: green;
+}
+
+.grnborder{
+    border: 2px solid green;
+}
+
+.redborder{
+    border: 2px solid red;
+}
+
+span{
+    display: table-cell;
+    border: 2px solid gray;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding: 2px 5px;
+
+}
+
+button{
+    background: white;
+    border-radius: 50%;
+    outline: none;
+    border: 1px solid rgba(255, 5, 9, 0.69);
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+body{
+    padding: 20px;
+}
+
